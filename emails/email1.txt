@@ -1,0 +1,11 @@
+date: 2015-11-13
+from: info@plentifun.com
+to: someone@other.com
+subject: Fun mail
+body:
+When I went for an eye check up to a doctor, I noticed his degree on the wall with his name.
+I tried to recollect where I’d heard that name before and realized that I had a crush on a guy with the
+same name way back in high school. He was tall and cute, but when I saw the doctor I was convinced it can’t
+be the same guy as he was fat and half bald. After my check up I asked him if he attended the City School and he
+said, yes he did. Then I asked him which year he graduated and he said, “1972, but why are you asking me this?”
+I exclaimed, “You were in my class!” and to that he said, “Oh! Really? Which subject did you teach?”

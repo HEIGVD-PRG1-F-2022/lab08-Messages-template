@@ -1,0 +1,7 @@
+date: 2023-01-14
+from: Fermat's Library
+body:
+How many π digits do we need?
+3.1415 ➡️ design the finest engines
+3.1415926535 ➡️ obtain the circumference of the Earth within a fraction of an inch
+3.1415926535897932384626433832795028842 ➡️  measure the radius of the universe to an accuracy equal to the size of a hydrogen atom

@@ -1,0 +1,6 @@
+date: 2008-03-01
+from: all@company.com
+to: boss@company.com
+subject: It’s a ruff life 🐾
+body:
+This email should've been a meeting.

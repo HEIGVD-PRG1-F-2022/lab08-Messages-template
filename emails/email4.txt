@@ -1,0 +1,10 @@
+date: 2012-09-27
+from: explainer@internet.org
+to: others@somewhere.red
+subject: Wrap Up
+body:
+"Per my last email" = In case you forgot how to read.
+"To reiterate" - This is the very last time I'll say this
+"Moving forward" - Don't try that again, seriously.
+"I've copied" - Let's see you lie your way out of this one
+"Kind regards" - I'd be grateful if we never spoke again

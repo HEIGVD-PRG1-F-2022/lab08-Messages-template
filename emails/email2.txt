@@ -1,0 +1,6 @@
+date: 2008-02-29
+from: boss@company.com
+to: all@company.com
+subject: Swipe right on us
+body:
+This meeting should've been an email.
