@@ -36,6 +36,8 @@ puis retourne le nombre d'éléments dans la liste
 - `void afficher_element(size_t el)` - affiche toutes les informations disponibles pour
 l'élément choisit
 
+Note : cette classe ne devrait pas lancer d'exception.
+
 ## Classe `Toot`
 
 Le constructeur de la classe `Toot` prend un nom de fichier et interprète les
@@ -43,7 +45,7 @@ informations suivantes contenu dans le fichier: la `date`, la `source` et le `co
 Regardez les fichiers dans le répertoire `toots/` pour vous faire une idée comment
 ces informations sont stockées.
 
-Si un des éléments ne peut pas être lus, la classe doit émettre une exception.
+Si un des éléments ne peut pas être lus, la classe **doit émettre une exception**.
 
 ## Classe `Email`
 
@@ -53,7 +55,7 @@ le `pour`, et le `sujet`.
 Regardez les fichiers dans le répertoire `emails/` pour vous faire une idée comment
 ces informations sont stockées.
 
-Si un des éléments ne peut pas être lus, la classe doit émettre une exception.
+Si un des éléments ne peut pas être lus, la classe **doit émettre une exception**.
 
 # Consignes pour ce labo
 
