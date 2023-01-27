@@ -72,5 +72,5 @@ vraie date. Vous pouvez utiliser la méthode [get_time](https://en.cppreference.
 Si la date n'est pas correcte, émettez une exception.
 - changez l'interprétation de façon que les champs peuvent apparaître dans n'importe
 ordre.
-- ajoutez une classe `SMS` qui peut lire les SMSs et les afficher comme les `Email` et les
+- ajoutez une classe `Tweet` qui peut lire les Tweets et les afficher comme les `Email` et les
 `Toot`
