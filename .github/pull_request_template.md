@@ -1,6 +1,6 @@
-# Ceci est la feuille d'évaluation pour le labo 06 - Last Robot Standing
+# Ceci est la feuille d'évaluation pour le labo 08 - Messages
 
-Le projet doit être rendu pour vendredi, 23 décembre, 23:59, UTC+1 en faisant un commit sur le repo du github classroom.
+Le projet doit être rendu pour vendredi, 20 janvier, 23:59, UTC+1 en faisant un commit sur le repo du github classroom.
 
 ## GÉNÉRAL
 
@@ -26,7 +26,7 @@ Le projet doit être rendu pour vendredi, 23 décembre, 23:59, UTC+1 en faisant 
 
 ## BONUS:
 
-1. 0/3 Utiliser la vrai date et vérifier
+1. 0/3 Utiliser la vraie date et vérifier
 2. 0/3 Champs en désordre et testé
 3. 0/2 Lire les Tweets
 
